@@ -1,9 +1,5 @@
 # Short Response Assignment Feedback
 
-**Student:** tylekmj-ops  
-**Assignment:** swe-sr-0-1  
-**Prompt:** Git Commit Metaphor  
-
 ## Score: 2/3
 
 ### Scoring Breakdown
